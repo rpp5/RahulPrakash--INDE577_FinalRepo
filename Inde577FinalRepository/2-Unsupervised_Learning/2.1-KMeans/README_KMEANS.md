@@ -1,0 +1,3 @@
+# K-means Clustering
+
+K-means Clustering is a popular unsupervised learning algorithm used to identify clusters within an unlabeled multidimensional dataset. It partitions n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster. This iterative algorithm selects k initial centroids, assigns observations to the nearest centroid, recalculates centroids based on the assignments, and repeats this process until the centroids stabilize. K-means is favored for its simplicity and speed, making it suitable for a wide range of applications, from market segmentation to document clustering, where explor
